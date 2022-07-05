@@ -1,0 +1,27 @@
+ID,Customer Name,Customer Gender,Customer Age,Customer Region,Product Name,Product Category,Product Price
+1,John,Male,24,Asia,Mi Pad 4,Tablet,25000
+2,Ava,Female,25,South America,Toshiba 1 TB,Hard Disk,4000
+3,Benjamin,Male,47,North America,NVIDIA GTX 1060,GPU,20000
+4,Sarah,Female,41,Africa,WD Blue 2 TB,Hard Disk,6000
+5,Michael,Male,29,South America,Ipad 8,Tablet,45000
+6,John,Male,24,Asia,Havit H219d,Headphone,1000
+7,Ronald,Male,48,North America,Samsung Galaxy S6,Tablet,40000
+8,John,Male,24,Ocenia,NVIDIA GTX 1060,GPU,20000
+9,Isabella,Female,38,North America,Fantech H50,Headphone,800
+10,Sofia,Female,40,Europe,Huawei MediaPad T8,Tablet,15000
+11,Kim,Female,31,Asia,Fantech H50,Headphone,800
+12,Michael,Male,29,South America,Lenovo Thinkpad 310,Laptop,35000
+13,Daniel,Male,38,Asia,Radeon RX 560,GPU,24000
+14,Diana,Female,25,Africa,Walton Antique 512 GB,SSD,6700
+15,Samuel,Male,32,North America,Msi Leopard G65,Laptop,80000
+16,Lucas,Male,24,Ocenia,Walton Antique 512 GB,SSD,6700
+18,Sarah,Female,41,Ocenia,Toshiba 1 TB,Hard Disk,4000
+19,Daniel,Male,38,Europe,WD Green 1 TB,Hard Disk,3500
+20,Emily,Female,31,Africa,Havit H219d,Headphone,1000
+21,Sophia,Female,21,Europe,Acer F5,Laptop,50000
+22,Evelyn,Female,27,North America,WD Blue 2 TB,Hard Disk,6000
+23,James,Male,20,South America,Toshiba 1 TB,Hard Disk,4000
+24,Christopher,Male,40,South America,WD Green 1 TB,Hard Disk,3500
+25,Jane,Female,44,South America,Team CX 256 GB,SSD,4200
+26,Lucas,Male,24,Africa,Acer F5,Laptop,50000
+27,Margaret,Female,38,North America,WD Blue 2 TB,Hard Disk,6000
